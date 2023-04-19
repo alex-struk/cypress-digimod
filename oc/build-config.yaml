@@ -8,7 +8,7 @@ spec:
   source:
     type: Git
     git:
-      uri: https://github.com/bcgov/nextjs-digimod
+      uri: https://github.com/alex-struk/cypress-digimod
     contextDir: 
   strategy:
     type: Docker                      
